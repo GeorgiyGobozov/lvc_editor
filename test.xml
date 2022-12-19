@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="Area" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/">
+  <objects z:Id="2">
+    <_items z:Id="3" z:Size="16">
+      <Figure z:Id="4" z:Type="RectangleObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="5">Сущность 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>394</d5p1:x>
+          <d5p1:y>200</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>394</d5p1:x>
+          <d5p1:y>200</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="6" z:Type="RectangleObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="7">Сущность 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>833</d5p1:x>
+          <d5p1:y>195</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>833</d5p1:x>
+          <d5p1:y>195</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="8" z:Type="RectangleObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="9">Сущность 3</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>395</d5p1:x>
+          <d5p1:y>448</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>395</d5p1:x>
+          <d5p1:y>448</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="10" z:Type="RectangleObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="11">Сущность 4</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>816</d5p1:x>
+          <d5p1:y>455</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>150</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>816</d5p1:x>
+          <d5p1:y>455</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="12" z:Type="RhombObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="13">Связь 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>394</d5p1:x>
+          <d5p1:y>323</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>394</d5p1:x>
+          <d5p1:y>323</d5p1:y>
+        </Location>
+        <r1>Many</r1>
+        <r2>One</r2>
+      </Figure>
+      <Figure z:Id="14" z:Type="RhombObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="15">Связь 3</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>814</d5p1:x>
+          <d5p1:y>327</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>814</d5p1:x>
+          <d5p1:y>327</d5p1:y>
+        </Location>
+        <r1>One</r1>
+        <r2>Many</r2>
+      </Figure>
+      <Figure z:Id="16" z:Type="RhombObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="17">Связь 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>627</d5p1:x>
+          <d5p1:y>332</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>627</d5p1:x>
+          <d5p1:y>332</d5p1:y>
+        </Location>
+        <r1>Many</r1>
+        <r2>Many</r2>
+      </Figure>
+      <Figure z:Id="18" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="19">Атрибут 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>326</d5p1:x>
+          <d5p1:y>581</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>326</d5p1:x>
+          <d5p1:y>581</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="20" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="21">Атрибут 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>464</d5p1:x>
+          <d5p1:y>582</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>464</d5p1:x>
+          <d5p1:y>582</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="22" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="23">Атрибут 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>477</d5p1:x>
+          <d5p1:y>78</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>477</d5p1:x>
+          <d5p1:y>78</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="24" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="25">Атрибут 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>773</d5p1:x>
+          <d5p1:y>75</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>773</d5p1:x>
+          <d5p1:y>75</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="26" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="27">Атрибут 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>949</d5p1:x>
+          <d5p1:y>79</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>949</d5p1:x>
+          <d5p1:y>79</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="28" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="29"> Атрибут 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>761</d5p1:x>
+          <d5p1:y>563</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>761</d5p1:x>
+          <d5p1:y>563</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="30" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="31">Атрибут 2</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>903</d5p1:x>
+          <d5p1:y>560</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>903</d5p1:x>
+          <d5p1:y>560</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure z:Id="32" z:Type="EllipseObject" z:Assembly="lvc_editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <text z:Id="33">Атрибут 1</text>
+        <location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>303</d5p1:x>
+          <d5p1:y>79</d5p1:y>
+        </location>
+        <size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </size>
+        <Size xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:height>80</d5p1:height>
+          <d5p1:width>120</d5p1:width>
+        </Size>
+        <Location xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <d5p1:x>303</d5p1:x>
+          <d5p1:y>79</d5p1:y>
+        </Location>
+      </Figure>
+      <Figure i:nil="true" />
+    </_items>
+    <_size>15</_size>
+    <_version>17</_version>
+  </objects>
+  <lines z:Id="34">
+    <_items z:Id="35" z:Size="16">
+      <Line z:Id="36">
+        <text z:Id="37">M</text>
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="12" i:nil="true" />
+        <f2 z:Ref="8" i:nil="true" />
+      </Line>
+      <Line z:Id="38">
+        <text z:Id="39">1</text>
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="12" i:nil="true" />
+        <f2 z:Ref="4" i:nil="true" />
+      </Line>
+      <Line z:Id="40">
+        <text z:Ref="37" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="8" i:nil="true" />
+        <f2 z:Ref="16" i:nil="true" />
+      </Line>
+      <Line z:Id="41">
+        <text z:Ref="37" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="16" i:nil="true" />
+        <f2 z:Ref="6" i:nil="true" />
+      </Line>
+      <Line z:Id="42">
+        <text z:Ref="39" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="14" i:nil="true" />
+        <f2 z:Ref="10" i:nil="true" />
+      </Line>
+      <Line z:Id="43">
+        <text z:Ref="37" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="14" i:nil="true" />
+        <f2 z:Ref="6" i:nil="true" />
+      </Line>
+      <Line z:Id="44">
+        <text z:Id="45"></text>
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="18" i:nil="true" />
+        <f2 z:Ref="8" i:nil="true" />
+      </Line>
+      <Line z:Id="46">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="20" i:nil="true" />
+        <f2 z:Ref="8" i:nil="true" />
+      </Line>
+      <Line z:Id="47">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="28" i:nil="true" />
+        <f2 z:Ref="10" i:nil="true" />
+      </Line>
+      <Line z:Id="48">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="30" i:nil="true" />
+        <f2 z:Ref="10" i:nil="true" />
+      </Line>
+      <Line z:Id="49">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="26" i:nil="true" />
+        <f2 z:Ref="6" i:nil="true" />
+      </Line>
+      <Line z:Id="50">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="24" i:nil="true" />
+        <f2 z:Ref="6" i:nil="true" />
+      </Line>
+      <Line z:Id="51">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>15</OFFSET>
+        <f1 z:Ref="22" i:nil="true" />
+        <f2 z:Ref="4" i:nil="true" />
+      </Line>
+      <Line z:Id="52">
+        <text z:Ref="45" i:nil="true" />
+        <OFFSET>5</OFFSET>
+        <f1 z:Ref="4" i:nil="true" />
+        <f2 z:Ref="32" i:nil="true" />
+      </Line>
+      <Line i:nil="true" />
+      <Line i:nil="true" />
+    </_items>
+    <_size>14</_size>
+    <_version>18</_version>
+  </lines>
+</Area>
